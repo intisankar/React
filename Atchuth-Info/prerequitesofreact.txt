@@ -1,6 +1,6 @@
-Js  ( fun, closures, callback, promises)
-Json,array,object in js
-Var , let and const differences
-Es6 ( arrow functions, spread operator, obj destructuring, string literals
-Map,reduce, filter (es6)
-Underscore,lodash,moment js
+// Js  ( fun, closures, callback, promises)
+// Json,array,object in js
+// Var , let and const differences
+// Es6 ( arrow functions, spread operator, obj destructuring, string literals
+// Map,reduce, filter (es6)
+// Underscore,lodash,moment js
